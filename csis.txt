@@ -1,0 +1,2 @@
+The car's speed is 56.73 miles/hour.
+The car's speed is 25.21 meters/second.
